@@ -39,9 +39,9 @@ public class Main {
         scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
         panel.add(scrollPane, BorderLayout.CENTER);
 
-        searchButton.addActionListener(new ActionListener() {
+        searchButton.addActionListener(new ActionListener() { //searchButton.addActionListener(new ActionListener() { ... });
             public void actionPerformed(ActionEvent e) {
-                String keyword = inputField.getText().toLowerCase();
+                String keyword = inputField.getText().toLowerCase(); //Ambil input pengguna dan cari hasil di Trie.
                 List<String> results = trie.searchByPrefix(keyword);
 
                 tableModel.setRowCount(0); // clear table
@@ -72,9 +72,9 @@ public class Main {
             br.readLine();
             while ((line = br.readLine()) != null) {
                 String cleanLine = line.startsWith(",") ? line.substring(1) : line;
-                String[] parts = line.split(",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)");
+                String[] parts = line.split(",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)"); //Split CSV dengan memperhitungkan tanda kutip ganda (agar tidak terpotong di tengah data).
                 if (parts.length > 1 && !parts[1].trim().isEmpty()) {
-                    String model = parts[1].trim().toLowerCase();
+                    String model = parts[1].trim().toLowerCase(); //Ambil model dan masukkan ke Trie sebagai key pencarian.
                     trie.insert(model, cleanLine);
                 }
             }
@@ -94,6 +94,7 @@ public class Main {
             }
             if (width > 300) width = 300;
             columnModel.getColumn(column).setPreferredWidth(width);
-        }
+        }//Loop semua kolom untuk mengatur ulang lebar berdasarkan isi.
+        //Jika lebar melebihi 300 px, batasi maksimal 300 agar tidak terlalu besar.
     }
 }
