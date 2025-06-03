@@ -1,0 +1,330 @@
+   ,nama_model,brand,tahun,CC,Transmisi,Jumlah penumpang
+",Honda Revo 100,Honda,2007,100,""Manual, 4-speed, semi-otomatis"",2"
+",Honda Absolute Revo 110,Honda,2009,110,""Manual, 4-speed, semi-otomatis"",2"
+",Honda Revo FI,Honda,2014,110,""Manual, 4-speed, semi-otomatis"",2"
+",Honda Astrea Supra X 100,Honda,1998,100,""Manual, 4-speed, semi-otomatis"",2"
+",Honda Supra X 125,Honda,2005,125,""Manual, 4-speed, semi-otomatis"",2"
+",Honda Supra X 125 Helm In,Honda,2011,125,""Manual, 4-speed, semi-otomatis"",2"
+",Honda Supra X 125 FI,Honda,2014,125,""Manual, 4-speed, semi-otomatis"",2"
+",Honda Supra GTR,Honda,2016,149.16,""Manual, 6-speed, kopling manual"",2"
+",Honda Blade 110R,Honda,2008,109.1,""Manual, 4-speed, semi-otomatis"",2"
+",New Honda Blade 110,Honda,2011,109.1,""Manual, 4-speed, semi-otomatis"",2"
+",New Honda Blade S / R,Honda,2011,109.1,""Manual, 4-speed, semi-otomatis"",2"
+",Honda Blade 125 FI,Honda,2013,124.89,""Manual, 4-speed, semi-otomatis"",2"
+",Honda Super Cub,Honda,2018,124.9,""Semi-otomatis, 4-speed"",2"
+"Honda Astrea Grand,Honda,1991,97,""Semi-otomatis, 4-speed"",2"
+"Honda Astrea Impressa,Honda,1997,97,""Semi-otomatis, 4-speed"",2"
+"Honda Astrea Legenda 1,Honda,2001,97,""Semi-otomatis, 4-speed"",2"
+"Honda Astrea Legenda 2,Honda,2003,97,""Semi-otomatis, 4-speed"",2"
+Honda BeAT Karburator CW,Honda,2008,108,Matic (CVT),2
+Honda BeAT Karburator SW,Honda,2008,108,Matic (CVT),2
+Honda BeAT PGM-FI SW,Honda,2012,110,Matic (CVT),2
+Honda BeAT PGM-FI CW,Honda,2012,110,Matic (CVT),2
+,Honda BeAT PGM-FI CBS,Honda,2012,110,Matic (CVT),2
+,Honda BeAT eSP CBS,Honda,2014,110,Matic (CVT),2
+,Honda BeAT eSP CW,Honda,2014,110,Matic (CVT),2
+,Honda BeAT eSP CBS-ISS,Honda,2014,110,Matic (CVT),2
+,Honda BeAT Pop eSP,Honda,2014,110,Matic (CVT),2
+,Honda BeAT Street eSP,Honda,2016,110,Matic (CVT),2
+,All New Honda BeAT eSP CW,Honda,2016,110,Matic (CVT),2
+,All New Honda BeAT eSP CBS,Honda,2016,110,Matic (CVT),2
+,All New Honda BeAT eSP CBS-ISS,Honda,2016,110,Matic (CVT),2
+,All New Honda BeAT CBS,Honda,2020,110,Matic (CVT),2
+,All New Honda BeAT Street,Honda,2020,110,Matic (CVT),2
+,All New Honda BeAT Deluxe,Honda,2020,110,Matic (CVT),2
+,All New Honda BeAT CBS 2024,Honda,2024,109.5,Matic (CVT),2
+,All New Honda BeAT Street 2024,Honda,2024,109.5,Matic (CVT),2
+,All New Honda BeAT Deluxe 2024,Honda,2024,109.5,Matic (CVT),2
+,All New Honda BeAT Deluxe Smart Key 2024,Honda,2024,109.5,Matic (CVT),2
+,Honda Genio CBS,Honda,2019,109.51,Matic (CVT),2
+,Honda Genio CBS-ISS,Honda,2019,109.51,Matic (CVT),2
+,Honda Genio CBS 2022,Honda,2022,109.51,Matic (CVT),2
+,Honda Genio CBS-ISS 2022,Honda,2022,109.51,Matic (CVT),2
+,Honda Scoopy Karburator,Honda,2010,110.9,Matic (CVT),2
+,Honda Scoopy FI,Honda,2013,109.51,Matic (CVT),2
+,Honda Scoopy eSP,Honda,2015,109.51,Matic (CVT),2
+,All New Honda Scoopy,Honda,2017,109.51,Matic (CVT),2
+,Honda Scoopy Smart Key,Honda,2020,109.51,Matic (CVT),2
+,All New Honda Scoopy 2024,Honda,2024,109.51,Matic (CVT),2
+,Honda Vario 110,Honda,2006,108,Matic (CVT),2
+,Honda Vario Techno 110,Honda,2009,108,Matic (CVT),2
+,Honda Vario Techno 125 FI,Honda,2012,125,Matic (CVT),2
+,Honda Vario 110 eSP,Honda,2014,109.51,Matic (CVT),2
+,All New Honda Vario 125,Honda,2015,125,Matic (CVT),2
+,All New Honda Vario 150,Honda,2015,149.4,Matic (CVT),2
+,All New Honda Vario 125 2018,Honda,2018,125,Matic (CVT),2
+,All New Honda Vario 150 2018,Honda,2018,149.4,Matic (CVT),2
+,All New Honda Vario 125 2022,Honda,2022,125,Matic (CVT),2
+,All New Honda Vario 160 2022,Honda,2022,160.1,Matic (CVT),2
+,Honda Stylo 160 CBS,Honda,2024,157,Matic (CVT),2
+,Honda Stylo 160 ABS,Honda,2024,157,Matic (CVT),2
+,Honda PCX 125 CBU,Honda,2010,125,Matic (CVT),2
+,Honda PCX 150 CBU,Honda,2012,153,Matic (CVT),2
+,Honda PCX 150 2017,Honda,2017,153,Matic (CVT),2
+,Honda PCX 160 CBS,Honda,2023,156.9,Matic (CVT),2
+,Honda PCX 160 ABS,Honda,2023,156.9,Matic (CVT),2
+,Honda PCX 160 eHEV,Honda,2023,156.9,Matic (CVT) + Motor Listrik,2
+,Honda ADV 150 CBS-ISS,Honda,2019,149.3,Matic (CVT),2
+,Honda ADV 150 ABS-ISS,Honda,2019,149.3,Matic (CVT),2
+,Honda ADV 160 CBS-ISS,Honda,2022,156.9,Matic (CVT),2
+,Honda ADV 160 ABS-ISS,Honda,2022,156.9,Matic (CVT),2
+,Honda Forza 250 CBU,Honda,2018,249.2,Matic (CVT),2
+,Honda Forza 250 eSP+,Honda,2021,249.2,Matic (CVT),2
+,Honda Forza 250 2023,Honda,2023,249.2,Matic (CVT),2
+,Honda CT125,Honda,2020,124.9,Semi-otomatis 4-speed,2
+,Honda Verza 150 SW,Honda,2013,150,Manual 5-speed,2
+,Honda Verza 150 CW,Honda,2013,150,Manual 5-speed,2
+,All New Honda CB150 Verza CW,Honda,2018,150,Manual 5-speed,2
+,All New Honda CB150 Verza SW,Honda,2018,150,Manual 5-speed,2
+,Honda Nova Sonic 125,Honda,2001,125,Manual 5-speed,2
+,Honda Sonic 150R,Honda,2015,149.4,Manual 6-speed,2
+,Honda CB150R StreetFire,Honda,2012,149.2,Manual 6-speed,2
+,Honda CB150R StreetFire SE,Honda,2012,149.2,Manual 6-speed,2
+,All New Honda CB150R StreetFire,Honda,2015,149.2,Manual 6-speed,2
+,All New Honda CB150R StreetFire SE,Honda,2015,149.2,Manual 6-speed,2
+,All New Honda CB150R StreetFire 2018,Honda,2018,149.2,Manual 6-speed,2
+,All New Honda CB150R StreetFire SE 2018,Honda,2018,149.2,Manual 6-speed,2
+,All New Honda CB150R StreetFire 2021,Honda,2021,149.2,Manual 6-speed,2
+,All New Honda CB150R StreetFire SE 2021,Honda,2021,149.2,Manual 6-speed,2
+,Honda CB150X,Honda,2021,149.2,Manual 6-speed,2
+,Honda CB150X SE,Honda,2021,149.2,Manual 6-speed,2
+,Honda CRF150L,Honda,2017,149.2,Manual 5-speed,2
+,Honda CRF 250L,Honda,2023,249.6,Manual 6-speed,2
+,Honda CRF 250 Rally,Honda,2017,249.6,Manual 6-speed,2
+,Honda CRF1100L Africa Twin,Honda,2020,1084,Manual 6-speed / DCT optional,2
+,Honda CBR150R Karburator,Honda,2002,149.4,Manual 6-speed,2
+,Honda CBR150R FI,Honda,2010,149.4,Manual 6-speed,2
+,Honda CBR150R K45A,Honda,2014,149.4,Manual 6-speed,2
+,Honda CBR150R K45G,Honda,2016,149.4,Manual 6-speed,2
+,Honda CBR150R K45G SE,Honda,2016,149.4,Manual 6-speed,2
+,Honda CBR150R K45G ABS,Honda,2016,149.4,Manual 6-speed,2
+,Honda CBR150R K45N,Honda,2018,149.4,Manual 6-speed,2
+,Honda CBR150R K45N ABS,Honda,2018,149.4,Manual 6-speed,2
+,Honda CBR150R K45R,Honda,2021,149.4,Manual 6-speed,2
+,Honda CBR150R K45R SE,Honda,2021,149.4,Manual 6-speed,2
+,Honda CBR150R K45R ABS,Honda,2021,149.4,Manual 6-speed,2
+,Honda CBR250R CBU,Honda,2011,249.6,Manual 6-speed,2
+,All New Honda CBR250R,Honda,2014,249.6,Manual 6-speed,2
+,Honda CBR250RR,Honda,2016,249.7,Manual 6-speed,2
+,Honda CBR250RR ABS,Honda,2016,249.7,Manual 6-speed,2
+,Honda CBR250RR 2021,Honda,2021,249.7,Manual 6-speed,2
+,Honda CBR250RR SP 2021,Honda,2021,249.7,Manual 6-speed,2
+,Honda CBR250RR SP QS 2021,Honda,2021,249.7,Manual 6-speed,2
+,Honda ST125 Dax,Honda,2022,124.9,Semi-otomatis 4-speed,2
+,Honda Monkey 125,Honda,2018,124.9,Semi-otomatis 4-speed,2
+,Honda EM1 e:,Honda,2023,,Otomatis (single-speed electric),2
+,Honda EM1 e: Plus,Honda,2023,,Otomatis (single-speed electric),2
+,Honda ICON e:,Honda,2024,,Otomatis (single-speed electric),2
+,Honda CUV e:,Honda,2024,,Otomatis (single-speed electric),2
+,Honda CUV e: RoadSync Duo:,Honda,2024,,Otomatis (single-speed electric),2
+,Honda CB650R,Honda,2021,649.3,Manual 6-speed,2
+,Honda CBR1000RR,Honda,2004,998,Manual 6-speed,2
+,Honda CBR1000RR 2008,Honda,2008,998,Manual 6-speed,2
+,Honda CBR1000RR Fireblade,Honda,2012,999,Manual 6-speed,2
+,Honda CBR1000RR Fireblade SP,Honda,2012,999,Manual 6-speed,2
+,Honda CBR1000RR Fireblader 2017,Honda,2017,999,Manual 6-speed,2
+,Honda CBR1000RR Fireblader SP 2017,Honda,2017,999,Manual 6-speed,2
+,Honda CBR1000RR Fireblader SP2 2017,Honda,2017,999,Manual 6-speed,2
+,Honda CBR1000RR-R Fireblade,Honda,2020,999,Manual 6-speed,2
+,Honda CBR1000RR-R Fireblade SP,Honda,2020,999,Manual 6-speed,2
+,Honda XL750 Transalp,Honda,2023,755.5,Manual 6-speed,2
+,Honda XL750 Transalp 2025,Honda,2025,755.5,Manual 6-speed,2
+,Honda CB500X 2013,Honda,2013,471,Manual 6-speed,2
+,Honda CB500X 2016,Honda,2016,471,Manual 6-speed,2
+,Honda CB500X 2019,Honda,2019,471,Manual 6-speed,2
+,Honda CB500X 2022,Honda,2022,471,Manual 6-speed,2
+,Honda Rebel 1100,Honda,2024,1084,Manual 6-speed,2
+,Honda Rebel 500,Honda,2017,471,Manual 6-speed,2
+,Honda Gold Wing 1800,Honda,2018,1833,DCT 7-speed,2
+,Honda Gold Wing 1800 2023,Honda,2023,1833,DCT 7-speed,2
+,Yamaha Vega,Yamaha,1999,110,Semi-otomatis 4-speed,2
+,Yamaha New Vega,Yamaha,2006,110,Semi-otomatis 4-speed,2
+,Yamaha Vega ZR,Yamaha,2009,110,Semi-otomatis 4-speed,2
+,Yamaha New Vega RR,Yamaha,2012,115,Semi-otomatis 4-speed,2
+,Yamaha Vega Force,Yamaha,2015,115,Semi-otomatis 4-speed,2
+,Yamaha Jupiter,Yamaha,2000,110,Semi-otomatis 4-speed,2
+,Yamaha Jupiter Z,Yamaha,2003,110,Semi-otomatis 4-speed,2
+,Yamaha New Jupiter Z,Yamaha,2006,110,Semi-otomatis 4-speed,2
+,Yamaha New Jupiter Z 115,Yamaha,2009,115,Semi-otomatis 4-speed,2
+,Yamaha Jupiter Z1,Yamaha,2012,115,Semi-otomatis 4-speed,2
+,Yamaha Jupiter MX 135 Manual,Yamaha,2005,135,Manual 5-speed,2
+,Yamaha Jupiter MX 135 Kopling,Yamaha,2005,135,Manual 5-speed,2
+,Yamaha New Jupiter MX 135,Yamaha,2010,135,Manual 5-speed,2
+,Yamaha Jupiter MX 150,Yamaha,2015,150,Manual 5-speed,2
+,Yamaha Jupiter MX-King,Yamaha,2015,150,Manual 5-speed,2
+,Yamaha Jupiter MX-King 150,Yamaha,2019,150,Manual 5-speed,2
+,Yamaha Mio Fino Sporty,Yamaha,2012,125,Matic (CVT),2
+,Yamaha Mio Fino Classic,Yamaha,2012,125,Matic (CVT),2
+,Yamaha Mio Fino Fashion,Yamaha,2012,125,Matic (CVT),2
+,Yamaha Mio Fino FI Sport,Yamaha,2014,125,Matic (CVT),2
+,Yamaha Mio Fino FI Premium,Yamaha,2014,125,Matic (CVT),2
+,Yamaha Fino 125 Grande,Yamaha,2016,125,Matic (CVT),2
+,Yamaha Fino 125 Premium,Yamaha,2016,125,Matic (CVT),2
+,Yamaha Fino 125 Sporty,Yamaha,2016,125,Matic (CVT),2
+,Yamaha Mio,Yamaha,2003,125,Matic (CVT),2
+,Yamaha Mio Soul,Yamaha,2007,125,Matic (CVT),2
+,Yamaha Mio Smile,Yamaha,2008,125,Matic (CVT),2
+,Yamaha Mio J,Yamaha,2012,125,Matic (CVT),2
+,Yamaha Mio GT ,Yamaha,2013,125,Matic (CVT),2
+,Yamaha Mio M3 125,Yamaha,2014,125,Matic (CVT),2
+,Yamaha Mio Z,Yamaha,2016,125,Matic (CVT),2
+,Yamaha Mio S,Yamaha,2017,125,Matic (CVT),2
+,Yamaha Mio Soul GT,Yamaha,2012,125,Matic (CVT),2
+,Yamaha Mio Soul GT 125,Yamaha,2015,125,Matic (CVT),2
+,Yamaha Gear 125,Yamaha,2020,125,Matic (CVT),2
+,Yamaha Gear 125 S,Yamaha,2020,125,Matic (CVT),2
+,Yamaha Gear Ultima 125 Hybrid,Yamaha,2025,125,Matic (CVT) + Motor Listrik (Hybrid),2
+,Yamaha Gear Ultima 125 Hybrid S,Yamaha,2025,125,Matic (CVT) + Motor Listrik (Hybrid),2
+,Yamaha X-Ride 115,Yamaha,2013,115,Matic (CVT),2
+,Yamaha X-Ride 125,Yamaha,2017,125,Matic (CVT),2
+,Yamaha FreeGo 125,Yamaha,2018,125,Matic (CVT),2
+,Yamaha FreeGo 125 S,Yamaha,2018,125,Matic (CVT),2
+,Yamaha FreeGo 125 S ABS,Yamaha,2018,125,Matic (CVT) + ABS,2
+,Yamaha FreeGo 125 2022,Yamaha,2022,125,Matic (CVT),2
+,Yamaha FreeGo 125 Connected ,Yamaha,2022,125,Matic (CVT),2
+,Yamaha Fazzio Hybrid,Yamaha,2022,125,Matic (CVT) + Motor Listrik (Hybrid),2
+,Yamaha Fazzio Hybrid Neo,Yamaha,2022,125,Matic (CVT) + Motor Listrik (Hybrid),2
+,Yamaha Fazzio Hybrid Lux,Yamaha,2022,125,Matic (CVT) + Motor Listrik (Hybrid),2
+,Yamaha Filano,Yamaha,2015,125,Matic (CVT),2
+,Yamaha Grand Filano Hybrid,Yamaha,2018,125,Matic (CVT) + Motor Listrik (Hybrid),2
+,Yamaha Grand Filano Hybrid Neo 2023,Yamaha,2023,125,Matic (CVT) + Motor Listrik (Hybrid),2
+,Yamaha Grand Filano Hybrid Lux 2023,Yamaha,2023,125,Matic (CVT) + Motor Listrik (Hybrid),2
+,Yamaha NMAX 155,Yamaha,2015,155,Matic (CVT),2
+,Yamaha NMAX 155 ABS,Yamaha,2015,155,Matic (CVT) + ABS,2
+,Yamaha NMAX 155 2019,Yamaha,2019,155,Matic (CVT),2
+,Yamaha NMAX 155 ABS 2019,Yamaha,2019,155,Matic (CVT) + ABS,2
+,Yamaha NMAX 155 Connected 2019,Yamaha,2019,155,Matic (CVT),2
+,Yamaha NMAX 155 Connected ABS 2019,Yamaha,2019,155,Matic (CVT) + ABS ,2
+,Yamaha NMAX Neo,Yamaha,2024,155,Matic (CVT),2
+,Yamaha NMAX Neo S,Yamaha,2024,155,Matic (CVT),2
+,Yamaha NMAX Turbo,Yamaha,2024,155,Matic (CVT) + Turbo Electric Power Assist,2
+,Yamaha NMAX Turbo Max,Yamaha,2024,155,Matic (CVT) + Turbo Electric Power Assist,2
+,Yamaha NMAX Turbo Max Ultimate,Yamaha,2024,155,Matic (CVT) + Turbo Electric Power Assist,2
+,Yamaha Aerox 125 LC,Yamaha,2016,125,Matic (CVT),2
+,Yamaha Aerox 155 VVA,Yamaha,2016,155,Matic (CVT) + VVA (Variable Valve Actuation),2
+,Yamaha Aerox 155 VVA R,Yamaha,2016,155,Matic (CVT) + VVA,2
+,Yamaha Aerox 155 VVA S,Yamaha,2016,155,Matic (CVT) + VVA + Keyless & ABS,2
+,Yamaha Aerox 155 2020,Yamaha,2020,155,Matic (CVT) + VVA,2
+,Yamaha Aerox 155 2020,Yamaha,2020,155,Matic (CVT) + VVA,2
+,Yamaha Aerox 155 2020,Yamaha,2020,155,Matic (CVT) + VVA,2
+,Yamaha Aerox Alpha,Yamaha,2024,155,Matic (CVT) + VVA,2
+,Yamaha Aerox Alpha Cyber City,Yamaha,2024,155,Matic (CVT) + VVA,2
+,Yamaha Aerox Alpha Turbo,Yamaha,2024,155,Matic (CVT) + VVA + Turbo Electric Assist,2
+,Yamaha Aerox Alpha Turbo Ultimate,Yamaha,2024,155,Matic (CVT) + VVA + Turbo Electric Assist,2
+,Yamaha Lexi 125,Yamaha,2018,125,Matic (CVT),2
+,Yamaha Lexi 125 S,Yamaha,2018,125,Matic (CVT),2
+,Yamaha Lexi 125 S ABS,Yamaha,2018,125,Matic (CVT) + ABS,2
+,Yamaha Lexi LX 155,Yamaha,2024,155,Matic (CVT),2
+,Yamaha Lexi LX 155 S,Yamaha,2024,155,Matic (CVT),2
+,Yamaha Lexi LX 155 ABS,Yamaha,2024,155,Matic (CVT) + ABS,2
+,Yamaha XMAX 250,Yamaha,2017,249,Matic (CVT),2
+,Yamaha XMAX 250 Tech Max,Yamaha,2017,249,Matic (CVT),2
+,Yamaha XMAX 250 2023,Yamaha,2023,249,Matic (CVT),2
+,Yamaha XMAX 250 Tech Max 2023,Yamaha,2023,249,Matic (CVT),2
+,Yamaha XSR,Yamaha,2019,155,Manual 6-speed,2
+,Yamaha R15 Gen 2,Yamaha,2014,155.1,Manual 6-speed,2
+,Yamaha R15 Gen 3,Yamaha,2017,155.1,Manual 6-speed,2
+,Yamaha R15 Gen 4,Yamaha,2021,155.1,Manual 6-speed,2
+,Yamaha R15 Gen 4 ABS,Yamaha,2021,155.1,Manual 6-speed + ABS,2
+,Yamaha R25 V1,Yamaha,2014,249,Manual 6-speed,2
+,Yamaha R25 V2,Yamaha,2019,249,Manual 6-speed,2
+,Yamaha R25 V2 ABS,Yamaha,2019,249,Manual 6-speed + ABS,2
+,Yamaha R25 V3 ABS,Yamaha,2025,249,Manual 6-speed + ABS,2
+,Yamaha MT-15 V1,Yamaha,2019,155.1,Manual 6-speed,2
+,Yamaha MT-15 V2,Yamaha,2022,155.1,Manual 6-speed,2
+,Yamaha MT-25 V1,Yamaha,2015,249,Manual 6-speed,2
+,Yamaha MT-25 V2,Yamaha,2019,249,Manual 6-speed,2
+,Yamaha MT-25 V2 ABS,Yamaha,2019,249,Manual 6-speed + ABS,2
+,Yamaha MT-25 V3,Yamaha,2025,249,Manual 6-speed,2
+,Yamaha Vixion,Yamaha,2007,150,Manual 5-speed,2
+,Yamaha Vixion 2010,Yamaha,2010,150,Manual 5-speed,2
+,Yamaha Vixion Lightning,Yamaha,2012,150,Manual 5-speed,2
+,Yamaha Vixion Advance,Yamaha,2015,150,Manual 5-speed,2
+,Yamaha All New Vixion,Yamaha,2017,155.1,Manual 6-speed,2
+,Yamaha Vixion R,Yamaha,2017,155.1,Manual 6-speed,2
+,Yamaha YZ125,Yamaha,2019,125,Manual 5-speed,2
+,Yamaha YZ125X,Yamaha,2022,125,Manual 5-speed,2
+,Yamaha YZ250,Yamaha,1974,250,Manual 5-speed,2
+,Yamaha YZ250X,Yamaha,2022,250,Manual 5-speed,2
+,Yamaha WR155R,Yamaha,2019,155,Manual 6-speed,2
+",Suzuki Smash 110,Suzuki,2002,109.1,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki New Smash 110,Suzuki,2005,109.1,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki All New Smash 110,Suzuki,2006,109.1,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Titan 115,Suzuki,2010,113,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Smash Titan 115,Suzuki,2010,113,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Shooter 115 FI,Suzuki,2013,113,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki New Smash FI,Suzuki,2014,113,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki New Smash FI 2017,Suzuki,2017,113,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Shogun 110,Suzuki,1995,110,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Shogun 110R,Suzuki,1997,110,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Shogun 125 ,Suzuki,2004,125,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Shogun 125R,Suzuki,2004,125,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Shogun 125RR,Suzuki,2004,125,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Shogun 125SP,Suzuki,2004,125,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Shogun Robot,Suzuki,2007,125,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Shogun 125 Fi,Suzuki,2008,125,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Shogun 125 Sport Fi,Suzuki,2008,125,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Shogun 125 Axelo,Suzuki,2012,125,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Shogun 125 Axelo Sport,Suzuki,2012,125,""4-speed, semi-otomatis (kopling otomatis)"",2"
+",Suzuki Satria 120 S,Suzuki,1997,120,""Semi-otomatis, 5-percepatan (kopling sentrifugal) "",2"
+",Suzuki Satria 120 R (120RU),Suzuki,1998,120,""Manual, 6-percepatan (kopling manual)"",2"
+",Suzuki Satria 120 R LSCM (Satria Hiu),Suzuki,2003,120,""Manual, 6-percepatan (kopling manual)"",2"
+",Suzuki Satria 125,Suzuki,2005,125,""Manual, 5-percepatan (kopling manual)"",2"
+",Suzuki Satria FU150 CBU,Suzuki,2004,147.3,""Manual, 6-percepatan "",2"
+",Suzuki Satria FU150 CKD,Suzuki,2006,147.3,""Manual, 6-percepatan "",2"
+",New Suzuki Satria F150,Suzuki,2013,147.3,""Manual, 6-percepatan"",2"
+",New Suzuki Satria F150 Euro 3,Suzuki,2015,147.3,""Manual, 6-percepatan"",2"
+",All New Suzuki Satria F150 FI,Suzuki,2016,147.3,""Manual, 6-percepatan"",2"
+,Suzuki Address FI,Suzuki,2014,113,Matic (CVT),2
+,Suzuki Address FI Elegant,Suzuki,2014,113,Matic (CVT),2
+,Suzuki Address FI Elegant LG,Suzuki,2014,113,Matic (CVT),2
+,Suzuki Address FI 2017,Suzuki,2017,113,Matic (CVT),2
+,Suzuki Address FI Playful 2017,Suzuki,2017,113,Matic (CVT),2
+,Suzuki Address FI Predator 2017,Suzuki,2017,113,Matic (CVT),2
+,Suzuki Address FI 2021,Suzuki,2021,113,Matic (CVT),2
+,Suzuki Address FI Playful 2021,Suzuki,2021,113,Matic (CVT),2
+,Suzuki Address FI Predator 2021,Suzuki,2021,113,Matic (CVT),2
+,Suzuki Nex 110,Suzuki,2011,113,Matic (CVT),2
+,Suzuki Nex Super FI,Suzuki,2013,113,Matic (CVT),2
+,Suzuki Nex II,Suzuki,2018,113,Matic (CVT),2
+,Suzuki Nex II Elegant,Suzuki,2018,113,Matic (CVT),2
+,Suzuki Nex II Elegant Premium,Suzuki,2018,113,Matic (CVT),2
+,Suzuki Nex II Fancy Dynamic,Suzuki,2018,113,Matic (CVT),2
+,Suzuki Nex II Sporty Runner,Suzuki,2018,113,Matic (CVT),2
+,Suzuki Let's 110 FI,Suzuki,2012,113,Matic (CVT),2
+,Suzuki SkyWave 125,Suzuki,2007,124,Matic (CVT),2
+,Suzuki SkyWave 125 NR,Suzuki,2007,124,Matic (CVT),2
+,Suzuki SkyDrive 125,Suzuki,2009,124,Matic (CVT),2
+,Suzuki Burgman Street 125EX,Suzuki,2023,124,Matic (CVT),2
+",GSX-R150,Suzuki,2017,147.3,""Manual, 6-speed"",2"
+",GSX-R150 Keyless Ignition,Suzuki,2017,147.3,""Manual, 6-speed"",2"
+",GSX-R150 ABS,Suzuki,2018,147.3,""Manual, 6-speed"",2"
+",GSX-S150,Suzuki,2016,147.3,""Manual, 6-speed"",2"
+",GSX-150 Bandit,Suzuki,2018,147.3,""Manual, 6-speed"",2"
+,Suzuki Hayate 125,Suzuki,2011,124,Matic (CVT),2
+",Suzuki Thunder 250,Suzuki,1999,249,""Manual, 5-speed"",2"
+",Suzuki Thunder 125,Suzuki,2004,124,""Manual, 5-speed"",2"
+",Suzuki Thunder 125 2006,Suzuki,2006,124,""Manual, 5-speed"",2"
+",Suzuki Thunder 125 2007,Suzuki,2007,124,""Manual, 5-speed"",2"
+",Suzuki Thunder 125 2011,Suzuki,2011,124,""Manual, 5-speed"",2"
+",Suzuki Inazuma 250,Suzuki,2012,248,""Manual, 6-speed"",2"
+",Suzuki Gixxer SF 250,Suzuki,2022,249,""Manual, 6-speed"",2"
+",Suzuki V-Strom 250 SX,Suzuki,2022,249,""Manual, 6-speed"",2"
+",Suzuki V-Strom 650,Suzuki,2012,645,""Manual, 6-speed"",2"
+",Suzuki V-Strom 650 XT,Suzuki,2017,645,""Manual, 6-speed"",2"
+,Suzuki Avenis 125,Suzuki,2022,124,Matic (CVT),2
+",Ducati Desert X,Ducati,2025,937,""Manual, 6-speed"",2"
+",Ducati SuperSport 950,Ducati,2025,937,""Manual, 6-speed"",2"
+",Ducati Streetfighter V4,Ducati,2025,1103,""Manual, 6-speed"",2"
+",Ducati XDiavel,Ducati,2025,1262,""Manual, 6-speed"",2"
+",Ducati Diavel,Ducati,2025,1262,""Manual, 6-speed"",2"
+",Ducati Multistrada 1260 Enduro,Ducati,2025,1262,""Manual, 6-speed"",2"
+",Ducati Hypermotard 950,Ducati,2025,937,""Manual, 6-speed"",2"
+",Ducati Monster 797,Ducati,2025,803,""Manual, 6-speed"",2"
+",Ducati Monster 821 Dark,Ducati,2025,821,""Manual, 6-speed"",2"
+",Ducati Monster 821 ,Ducati,2025,821,""Manual, 6-speed"",2"
+",Ducati Monster 821 Stealth,Ducati,2025,821,""Manual, 6-speed"",2"
+",Ducati Panigale 959,Ducati,2025,955,""Manual, 6-speed"",2"
+",Ducati Panigale R,Ducati,2025,1198,""Manual, 6-speed"",2"
+",Ducati Multistrada 950,Ducati,2025,937,""Manual, 6-speed"",2"
+",Ducati Panigale V4 Standard,Ducati,2025,1103,""Manual, 6-speed"","
