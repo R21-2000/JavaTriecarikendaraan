@@ -11,7 +11,7 @@ public class Trie {
             node = node.children.computeIfAbsent(c, k -> new Trienode());
         }
         node.isEndOfWord = true;
-        node.fullData = fullRow; // simpan baris lengkap
+        node.fullData = fullRow; 
     }
     
     public List<String> searchByPrefix(String prefix) {

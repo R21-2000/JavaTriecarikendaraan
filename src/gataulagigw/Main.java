@@ -9,7 +9,6 @@ import java.util.List;
 
 public class Main {
     private static Trie trie = new Trie();
-
     public static void main(String[] args) {
         loadData("src/data.csv");
 
@@ -70,7 +69,7 @@ public class Main {
     private static void loadData(String fileName) {
         try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {
             String line;
-            br.readLine(); // skip header
+            br.readLine();
             while ((line = br.readLine()) != null) {
                 String cleanLine = line.startsWith(",") ? line.substring(1) : line;
                 String[] parts = line.split(",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)");
