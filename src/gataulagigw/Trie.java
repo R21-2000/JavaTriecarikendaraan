@@ -2,39 +2,41 @@ package gataulagigw;
 import java.util.*;
 
 public class Trie {
-	private Trienode root = new Trienode(); //Inisialisasi root Trie.
-    private Map<String, String> fullDataMap = new HashMap<>();
-	
-    public void insert(String model, String fullRow) { //Nambah model kendaraan ke Trie, juga isi CSV-nya.
+    private Trienode root = new Trienode(); // Node akar dari Trie
+
+    // Menambahkan entri baru ke Trie
+    public void insert(String model, String fullRow) {
         Trienode node = root;
         for (char c : model.toCharArray()) {
-            node = node.children.computeIfAbsent(c, k -> new Trienode());
-        } //Looping setiap karakter dalam model, buat baru kalo lum ada.
-        node.isEndOfWord = true;
-        node.fullData = fullRow; 
-    }//Tandai akhir dari entri dan simpan data lengkap dari baris CSV.
-    
-    public List<String> searchByPrefix(String prefix) { //Cari semua entri yang model-nya diawali dengan prefix.
-    	
+            node = node.children.computeIfAbsent(c, k -> new Trienode()); // Buat node baru jika belum ada
+        }
+        node.isEndOfWord = true; // Tandai akhir kata
+        node.fullData = fullRow; // Simpan data CSV
+    }
+
+    // Cari semua entri yang cocok dengan awalan tertentu
+    public List<String> searchByPrefix(String prefix) {
         Trienode node = root;
-        for (char c : prefix.toLowerCase().toCharArray()) { //Navigasi Trie berdasarkan prefix yang diberikan (huruf kecil untuk konsistensi).
+        for (char c : prefix.toLowerCase().toCharArray()) {
             if (!node.children.containsKey(c)) {
-                return Collections.emptyList();
+                return Collections.emptyList(); // Jika prefix tidak ditemukan, kembalikan kosong
             }
             node = node.children.get(c);
         }
+
         List<String> results = new ArrayList<>();
-        dfs(node, new StringBuilder(prefix.toLowerCase()), results);
+        dfs(node, new StringBuilder(prefix.toLowerCase()), results); // Cari semua hasil dari node ini
         return results;
     }
 
-    private void dfs(Trienode node, StringBuilder prefix, List<String> results) { //Lanjutkan pencarian secara rekursif dari simpul yang cocok dengan prefix.
+    // DFS untuk mendapatkan semua hasil dari node saat ini
+    private void dfs(Trienode node, StringBuilder prefix, List<String> results) {
         if (node.isEndOfWord && node.fullData != null) {
             results.add(node.fullData);
         }
         for (char c : node.children.keySet()) {
-            dfs(node.children.get(c), prefix.append(c), results);
-            prefix.deleteCharAt(prefix.length() - 1);
+            dfs(node.children.get(c), prefix.append(c), results); // Rekursi
+            prefix.deleteCharAt(prefix.length() - 1); // Backtrack
         }
     }
 }
